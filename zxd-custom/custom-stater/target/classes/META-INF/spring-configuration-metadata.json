@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "name": "nobody.json",
+      "type": "com.zxd.conf.MyJsonProperties",
+      "sourceType": "com.zxd.conf.MyJsonProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "nobody.json.prefix-name",
+      "type": "java.lang.String",
+      "sourceType": "com.zxd.conf.MyJsonProperties",
+      "defaultValue": "@"
+    },
+    {
+      "name": "nobody.json.suffix-name",
+      "type": "java.lang.String",
+      "sourceType": "com.zxd.conf.MyJsonProperties",
+      "defaultValue": "@"
+    }
+  ],
+  "hints": []
+}

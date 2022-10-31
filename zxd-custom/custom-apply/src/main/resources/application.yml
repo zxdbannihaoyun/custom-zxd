@@ -1,0 +1,14 @@
+server:
+  port: 8090
+#  servlet:
+#    context-path: /test
+logging:
+  config:
+    classpath: logback.xml
+    #日志输出路径
+    path: D:/start/custom
+#nobody:
+#  json:
+#    prefixName: AA
+#    suffixName: BB
+
